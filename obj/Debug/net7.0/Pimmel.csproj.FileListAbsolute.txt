@@ -1,0 +1,15 @@
+C:\Users\Ron\Desktop\Pimmel\bin\Debug\net7.0\Pimmel.exe
+C:\Users\Ron\Desktop\Pimmel\bin\Debug\net7.0\Pimmel.deps.json
+C:\Users\Ron\Desktop\Pimmel\bin\Debug\net7.0\Pimmel.runtimeconfig.json
+C:\Users\Ron\Desktop\Pimmel\bin\Debug\net7.0\Pimmel.dll
+C:\Users\Ron\Desktop\Pimmel\bin\Debug\net7.0\Pimmel.pdb
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.csproj.AssemblyReference.cache
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.AssemblyInfoInputs.cache
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.AssemblyInfo.cs
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.csproj.CoreCompileInputs.cache
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.dll
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\refint\Pimmel.dll
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.pdb
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\Pimmel.genruntimeconfig.cache
+C:\Users\Ron\Desktop\Pimmel\obj\Debug\net7.0\ref\Pimmel.dll
